@@ -1,0 +1,12 @@
+{
+  "qName": "ID",
+  "qTags": [
+    "$numeric",
+    "$integer",
+    "$key"
+  ],
+  "qSrcTables": [
+    "Airports2",
+    "Airports1"
+  ]
+}

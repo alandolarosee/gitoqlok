@@ -1,0 +1,15 @@
+{
+  "qInfo": {
+    "qId": "4b65aca7-9889-4512-9a1b-d31078dc0241",
+    "qType": "variable"
+  },
+  "qMetaDef": {},
+  "qName": "name",
+  "qNumberPresentation": {
+    "qType": "U",
+    "qnDec": 10,
+    "qUseThou": 0
+  },
+  "qDefinition": "Airports1",
+  "qIsScriptCreated": true
+}

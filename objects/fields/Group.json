@@ -1,0 +1,10 @@
+{
+  "qName": "Group",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Airports1"
+  ]
+}

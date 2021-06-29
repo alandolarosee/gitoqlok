@@ -1,0 +1,10 @@
+{
+  "qName": "NodeVolume",
+  "qTags": [
+    "$numeric",
+    "$integer"
+  ],
+  "qSrcTables": [
+    "Airports2"
+  ]
+}

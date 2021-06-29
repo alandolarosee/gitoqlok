@@ -1,0 +1,12 @@
+{
+  "qIsHidden": true,
+  "qName": "Airports1.Name_GeoInfo",
+  "qTags": [
+    "$geopoint",
+    "$ascii",
+    "$text",
+    "$hidden",
+    "$relates_Name"
+  ],
+  "qSrcTables": []
+}

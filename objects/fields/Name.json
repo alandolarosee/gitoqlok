@@ -1,0 +1,12 @@
+{
+  "qName": "Name",
+  "qTags": [
+    "$ascii",
+    "$text",
+    "$geoname",
+    "$relates_Airports1.Name_GeoInfo"
+  ],
+  "qSrcTables": [
+    "Airports1"
+  ]
+}
