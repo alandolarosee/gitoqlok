@@ -11,7 +11,7 @@
     "rank": null,
     "thumbnail": {
       "qStaticContentUrlDef": {
-        "qUrl": "/appcontent/05718824-025d-45db-9530-047f22aa0567/Screenshot 2021-05-23 at 23.59.40.png"
+        "qUrl": "/appcontent/d393500d-3963-44c2-b988-4ad36e63c96b/Screenshot 2021-05-23 at 23.59.40.png"
       }
     },
     "columns": 24,
@@ -21,42 +21,28 @@
         "name": "RacmPAY",
         "type": "qlik-network-chart",
         "col": 0,
-        "row": 2,
-        "colspan": 23,
-        "rowspan": 9,
+        "row": 3,
+        "colspan": 18,
+        "rowspan": 8,
         "bounds": {
-          "y": 16.666666666666664,
+          "y": 25,
           "x": 0,
-          "width": 95.83333333333334,
-          "height": 75
+          "width": 75,
+          "height": 66.66666666666666
         }
       },
       {
-        "name": "uXfesP",
+        "name": "mhkWcuk",
         "type": "action-button",
         "col": 0,
         "row": 0,
         "colspan": 12,
-        "rowspan": 2,
+        "rowspan": 3,
         "bounds": {
           "y": 0,
           "x": 0,
           "width": 50,
-          "height": 16.666666666666664
-        }
-      },
-      {
-        "name": "ymhYYzU",
-        "type": "bulletchart",
-        "col": 12,
-        "row": 0,
-        "colspan": 12,
-        "rowspan": 2,
-        "bounds": {
-          "y": 0,
-          "x": 50,
-          "width": 50,
-          "height": 16.666666666666664
+          "height": 25
         }
       }
     ],
@@ -525,7 +511,7 @@
     {
       "qProperty": {
         "qInfo": {
-          "qId": "uXfesP",
+          "qId": "mhkWcuk",
           "qType": "action-button"
         },
         "qMetaDef": {},
@@ -594,118 +580,6 @@
           }
         },
         "visualization": "action-button"
-      },
-      "qChildren": []
-    },
-    {
-      "qProperty": {
-        "qInfo": {
-          "qId": "ymhYYzU",
-          "qType": "bulletchart"
-        },
-        "qMetaDef": {},
-        "qHyperCubeDef": {
-          "qDimensions": [],
-          "qMeasures": [],
-          "qInterColumnSortOrder": [],
-          "qSuppressMissing": true,
-          "qInitialDataFetch": [
-            {
-              "qLeft": 0,
-              "qTop": 0,
-              "qWidth": 15,
-              "qHeight": 500
-            }
-          ],
-          "qReductionMode": "N",
-          "qMode": "S",
-          "qPseudoDimPos": -1,
-          "qNoOfLeftDims": -1,
-          "qMaxStackedCells": 5000,
-          "qCalcCond": {},
-          "qTitle": {},
-          "qCalcCondition": {
-            "qCond": {},
-            "qMsg": {}
-          },
-          "qColumnOrder": [],
-          "qExpansionState": []
-        },
-        "showTitles": true,
-        "title": "My New chart",
-        "subtitle": "",
-        "footnote": "",
-        "disableNavMenu": false,
-        "showDetails": false,
-        "orientation": "vertical",
-        "scrollbar": "bar",
-        "scrollStartPos": 0,
-        "gridLine": {
-          "auto": true,
-          "spacing": 2
-        },
-        "dataPoint": {
-          "showLabels": false,
-          "showSegmentLabels": false,
-          "showTotalLabels": true
-        },
-        "color": {
-          "auto": true,
-          "mode": "primary",
-          "formatting": {
-            "numFormatFromTemplate": true
-          },
-          "useBaseColors": "off",
-          "paletteColor": {
-            "index": 6
-          },
-          "useDimColVal": true,
-          "useMeasureGradient": true,
-          "persistent": false,
-          "expressionIsColor": true,
-          "expressionLabel": "",
-          "measureScheme": "sg",
-          "reverseScheme": false,
-          "dimensionScheme": "12",
-          "autoMinMax": true,
-          "measureMin": 0,
-          "measureMax": 10,
-          "target": {
-            "index": -1,
-            "color": "#000000"
-          },
-          "bar": {
-            "index": 6
-          }
-        },
-        "legend": {
-          "show": true,
-          "dock": "auto",
-          "showTitle": true
-        },
-        "dimensionAxis": {
-          "continuousAuto": true,
-          "show": "all",
-          "label": "auto",
-          "dock": "near"
-        },
-        "preferContinuousAxis": true,
-        "showMiniChartForContinuousAxis": true,
-        "measureAxis": {
-          "show": "all",
-          "dock": "near",
-          "spacing": 1,
-          "commonRange": false,
-          "commonAxis": false
-        },
-        "tooltip": {
-          "auto": true,
-          "hideBasic": false,
-          "title": "",
-          "description": ""
-        },
-        "visualization": "bulletchart",
-        "version": "1.2.0"
       },
       "qChildren": []
     }
