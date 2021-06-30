@@ -521,7 +521,7 @@
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [
-                  "Group"
+                  "ID"
                 ],
                 "qFieldLabels": [
                   ""
@@ -537,7 +537,7 @@
                 "qNumberPresentations": [],
                 "qActiveField": 0,
                 "autoSort": true,
-                "cId": "nCPaWPB",
+                "cId": "cerJ",
                 "othersLabel": "Others",
                 "textAlign": {
                   "auto": true,
@@ -581,7 +581,7 @@
               "qDef": {
                 "qGrouping": "N",
                 "qFieldDefs": [
-                  "ID"
+                  "Group"
                 ],
                 "qFieldLabels": [
                   ""
@@ -597,7 +597,7 @@
                 "qNumberPresentations": [],
                 "qActiveField": 0,
                 "autoSort": true,
-                "cId": "cerJ",
+                "cId": "nCPaWPB",
                 "othersLabel": "Others",
                 "textAlign": {
                   "auto": true,
@@ -993,8 +993,8 @@
             }
           ],
           "qInterColumnSortOrder": [
-            0,
             1,
+            0,
             2,
             3,
             4,
