@@ -1082,7 +1082,7 @@
                 "index": -1,
                 "color": null
               },
-              "hoverEffect": true,
+              "hoverEffect": false,
               "hoverColor": {
                 "index": 11,
                 "color": "#e0bd8d"
