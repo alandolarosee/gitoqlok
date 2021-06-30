@@ -881,6 +881,7 @@
           "qMeasures": [
             {
               "qDef": {
+                "qLabel": "Count",
                 "qTags": [],
                 "qGrouping": "N",
                 "qDef": "count(ID)",
