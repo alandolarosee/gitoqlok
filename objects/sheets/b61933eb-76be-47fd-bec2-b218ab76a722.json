@@ -1073,7 +1073,34 @@
         "footnote": "",
         "disableNavMenu": false,
         "showDetails": false,
-        "components": [],
+        "components": [
+          {
+            "key": "theme",
+            "content": {
+              "fontSize": null,
+              "fontColor": {
+                "index": -1,
+                "color": null
+              },
+              "hoverEffect": true,
+              "hoverColor": {
+                "index": 11,
+                "color": "#e0bd8d"
+              },
+              "hoverFontColor": {
+                "index": -1,
+                "color": null
+              }
+            },
+            "header": {
+              "fontSize": null,
+              "fontColor": {
+                "index": -1,
+                "color": null
+              }
+            }
+          }
+        ],
         "totals": {
           "show": true,
           "position": "noTotals",
